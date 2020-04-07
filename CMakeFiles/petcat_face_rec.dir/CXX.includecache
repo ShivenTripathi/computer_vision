@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohanblueboybaijal/Computer_Vision/petcat_face_rec.cpp
+opencv2/opencv.hpp
+-
+opencv2/face/facerec.hpp
+-
+iostream
+-
+experimental/filesystem
+-
+string.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohanblueboybaijal/Computer_Vision/drawing.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+string
+-
+

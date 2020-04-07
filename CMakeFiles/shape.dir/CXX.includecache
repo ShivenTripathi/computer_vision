@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohanblueboybaijal/Computer_Vision/shape_detection.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+bits/stdc++.h
+-
+
